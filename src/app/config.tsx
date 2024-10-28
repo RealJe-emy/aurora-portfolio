@@ -6,9 +6,9 @@ import { SiTypescript, SiShadcnui, SiPrisma, SiWoocommerce, SiReact } from "reac
 import { GrGraphQl } from "react-icons/gr";
 
 export const siteConfig = {
-    name: "Alvin Chang",
-    title: "Alvin Chang | Full-Stack Developer",
-    email: "alvin@studioaurora.io",
+    name: "Jeremy Oyucho",
+    title: "Jeremy Oyucho| Full-Stack Developer | Cloud engineer",
+    email: "jeremyoyucho8163@gmail.com",
     alias: "Aurora",
     description: "Alvin Chang is a web developer who builds scalable, user-centric applications using Next.js, WordPress, and other frameworks. With a focus on performance, accessibility, and clean code, Alvin creates digital solutions that are both functional and aesthetically pleasing.",
     keywords: "Alvin Chang, full-stack developer, web development, Next.js, WordPress, React, Node.js, scalable applications, clean code",
