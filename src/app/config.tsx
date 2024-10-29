@@ -9,8 +9,8 @@ export const siteConfig = {
     name: "Jeremy Oyucho",
     title: "Jeremy Oyucho| Full-Stack Developer | Cloud engineer",
     email: "jeremyoyucho8163@gmail.com",
-    alias: "Aurora",
-    description: "Alvin Chang is a web developer who builds scalable, user-centric applications using Next.js, WordPress, and other frameworks. With a focus on performance, accessibility, and clean code, Alvin creates digital solutions that are both functional and aesthetically pleasing.",
+    alias: "Jeremy ",
+    description: "Jeremy Oyucho is a web developer who builds scalable, user-centric applications using Next.js, WordPress, and other frameworks. With a focus on performance, accessibility, and clean code, Alvin creates digital solutions that are both functional and aesthetically pleasing.",
     keywords: "Jeremy Oyucho, full-stack developer, web development, Next.js, WordPress, React, Node.js, scalable applications, clean code",
     url: "https://alvinchang.dev",
     taglines: [
