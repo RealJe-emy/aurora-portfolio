@@ -11,7 +11,7 @@ export const siteConfig = {
     email: "jeremyoyucho8163@gmail.com",
     alias: "Aurora",
     description: "Alvin Chang is a web developer who builds scalable, user-centric applications using Next.js, WordPress, and other frameworks. With a focus on performance, accessibility, and clean code, Alvin creates digital solutions that are both functional and aesthetically pleasing.",
-    keywords: "Alvin Chang, full-stack developer, web development, Next.js, WordPress, React, Node.js, scalable applications, clean code",
+    keywords: "Jeremy Oyucho, full-stack developer, web development, Next.js, WordPress, React, Node.js, scalable applications, clean code",
     url: "https://alvinchang.dev",
     taglines: [
         "🚀 Coding Simplicity, Crafting Solutions: Bringing Ideas to Life, One Line at a Time. ✨ Let's transform challenges into digital possibilities with precision and creativity!",
@@ -22,24 +22,24 @@ export const siteConfig = {
     socialLinks: [
         {
             icon: <FaGithub />,
-            url: "https://github.com/auroradream04",
+            url: "https://github.com/RealJe-emy?tab=stars",
         },
         {
             icon: <FaLinkedin />,
-            url: "https://www.linkedin.com/in/auroradream04/",
+            url: "https://www.linkedin.com/in/jeremy-oyucho-47b18226a/",
         },
         {
             icon: <FaSquareXTwitter />,
             url: "https://x.com/aurora_dream04",
         },
-        {
-            icon: <FaDiscord />,
-            url: "https://discord.gg/pwYGjDebkF",
-        },
-        {
-            icon: <IoIosMail />,
-            url: "mailto:alvin@studioaurora.io",
-        },
+        // {
+        // //     icon: <FaDiscord />,
+        // //     url: "https://discord.gg/pwYGjDebkF",
+        // // },
+        // {
+        //     icon: <IoIosMail />,
+        //     url: "mailto:alvin@studioaurora.io",
+        // },
     ],
     sections: {
         tableOfContents: [
@@ -66,7 +66,7 @@ export const siteConfig = {
         ],
         aboutMe: `
             <p>
-                Hi! I'm Alvin, a <strong>full-stack developer</strong> who started coding in <strong>2023</strong>. Since then, I've built <strong>streaming platforms</strong>, <strong>blogs</strong>, and <strong>e-commerce sites</strong>. Whether it’s front-end finesse or back-end logic, I love bringing ideas to life on the web.
+                Hi! I'm Jeremy, a <strong>full-stack developer</strong> who started coding in <strong>2021</strong>. Since then, I've built <strong>streaming platforms</strong>, <strong>blogs</strong>, and <strong>e-commerce sites</strong>. Whether it’s front-end finesse or back-end logic, I love bringing ideas to life on the web.
             </p>
             <p>
                 When I’m not coding, you’ll find me playing <strong>Dota 2</strong>, cooking up new recipes, or streaming on <strong>Kick</strong>. Let's connect—I'd love to help with your next <strong>website</strong> or <strong>API</strong> project!
@@ -74,21 +74,21 @@ export const siteConfig = {
         `,
         experiences: [
             {
-                company: "Studio Aurora",
+                company: "Meru Market Place",
                 position: "Founder | Lead Developer",
                 duration: "2024 - Present",
-                description: "Founded a web development agency focused on delivering high-quality websites and custom digital solutions. Lead the end-to-end development process, from client consultation and project planning to design implementation and deployment. Skilled in building scalable web apps, e-commerce platforms, and custom API integrations using modern frameworks like Next.js. Oversee a team of developers and coordinate projects to ensure timely delivery and client satisfaction."
+                description: "Founded a web development agency focused on delivering high-quality products and services . Lead the end-to-end development process, from client consultation and project planning to design implementation and deployment. Skilled in building scalable web apps, e-commerce platforms, and custom API integrations using modern frameworks like Next.js. Oversee a team of developers and coordinate projects to ensure timely delivery and client satisfaction."
             },
             {
-                company: "Pingu Dev Inc.",
-                position: "Full-stack Engineer",
-                duration: "2023 - 2024",
+                company: "Konza Technopolis.",
+                position: "Cloud Engineer",
+                duration: " May - August, 2024",
                 description: "Developed various websites including streaming platforms, landing pages, and news sites using Next.js, WordPress, and Maccms. Built and managed APIs with Express.js, and leveraged web scraping to curate and generate content. Introduced automation processes to streamline workflows and built desktop applications with Electron for internal use."
             }
         ],
         projects: [
             {
-                title: "Alvin Chang | Portfolio Website",
+                title: "Jeremy Oyucho | Portfolio Website",
                 description: "This is my portfolio website. I built it to showcase my projects and skills. It is a static site built with Next.js, Tailwind CSS, and Shadcn/UI. I used the following technologies to build it:",
                 logo: "/logox.png",
                 repoLink: "https://github.com/auroradream04/aurora-portfolio",
